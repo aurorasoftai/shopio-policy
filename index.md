@@ -17,8 +17,12 @@ The App uses third-party services that may collect **device-level** or **usage**
 - Google Mobile Ads (ads delivery and measurement)
 - Analytics provider(s) (usage and performance)
 - Google Play and RevenueCat (subscriptions and purchase validation)
+- OpenAI (AI categorization)
 
 These services may collect data such as device identifiers, app usage events, and diagnostic data. This data is not linked by us to your identity.
+
+## 4) AI Processing
+To provide automatic item categorization, list item text may be processed by an AI provider (OpenAI). Do not include sensitive or personally identifying information in items you want categorized.
 
 ## 4) Shopping List Content
 The App is intended only for **generic shopping list items**. You **must not** store sensitive, confidential, or personally identifying information in your lists (including addresses, phone numbers, financial data, health data, or government IDs). If you do, you do so **at your own risk**.
