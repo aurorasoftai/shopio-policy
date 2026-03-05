@@ -1,74 +1,83 @@
 # Shopio Privacy Policy
 
-**Effective date:** 28.01.2026
-**Version:** 1.0.0
+**Effective date:** March 5, 2026  
+**Version:** 1.1.0
 
-Aurora Soft AI ("we," "our," or "us") operates the Shopio mobile application ("App"). This Privacy Policy explains how we handle information when you use the App.
+Aurora Soft AI ("we," "our," or "us") operates the Shopio mobile application ("App"). This Privacy Policy explains what data is processed when you use the App, why it is processed, and what choices you have.
 
-## 1) We Do Not Collect User-Identifying Data Directly
-Shopio does **not** require accounts or collect names, emails, or other personal identifiers.
+## 1) Summary
+- Shopio does not require account sign-up with name or email.
+- Shopping list data can be stored in Firebase for sync and sharing.
+- Ads and subscriptions use third-party providers.
+- AI categorization sends list item text to our backend and OpenAI.
 
-## 2) Cloud Storage & Sync
-Your shopping lists are stored and synced in the cloud (Firebase) to enable backup and sharing. While we do not associate lists with a personal identity, the data is stored on our backend so it can sync across devices or shared lists.
+## 2) Data We Process
+We may process the following categories of data:
 
-## 3) Third-Party Services
-The App uses third-party services that may collect **device-level** or **usage** data for their own processing:
+- **Shopping list content:** list names, item text, item state, sort order, and timestamps.
+- **Sharing data:** share codes and shared-list metadata needed to let multiple users sync the same list.
+- **Technical/service identifiers:** Firebase anonymous authentication identifiers and service-related IDs.
+- **Advertising and diagnostics data (via partners):** device identifiers (including advertising IDs where available), app interaction, and ad performance data.
+- **Subscription and purchase data (via partners):** entitlement status, store transaction metadata, and restore/purchase state.
+- **AI request data:** item text and selected category labels sent to our categorization endpoint and then to OpenAI.
 
-- Google Mobile Ads (ads delivery and measurement)
-- Analytics provider(s) (usage and performance)
-- Google Play and RevenueCat (subscriptions and purchase validation)
-- OpenAI (AI categorization)
+## 3) How We Use Data
+We process data to:
+- Provide core app functionality.
+- Sync and back up shopping lists.
+- Enable shared lists.
+- Categorize list items with AI.
+- Show ads and measure ad performance.
+- Process and restore subscriptions.
+- Maintain service security, reliability, and troubleshooting.
 
-These services may collect data such as device identifiers, app usage events, and diagnostic data. This data is not linked by us to your identity.
+## 4) Third-Party Processors/Services
+The App relies on these services:
+- **Google Firebase** (hosting/auth/database infrastructure)
+- **Google Mobile Ads (AdMob)** (ad delivery and measurement)
+- **Google Play / Apple App Store** (billing and transactions)
+- **RevenueCat** (subscription entitlement and purchase state)
+- **OpenAI** (AI categorization)
 
-## 4) AI Processing
-To provide automatic item categorization, list item text may be processed by an AI provider (OpenAI). Do not include sensitive or personally identifying information in items you want categorized.
+These services may process data under their own privacy terms.
 
-## 4) Shopping List Content
-The App is intended only for **generic shopping list items**. You **must not** store sensitive, confidential, or personally identifying information in your lists (including addresses, phone numbers, financial data, health data, or government IDs). If you do, you do so **at your own risk**.
+## 5) Ads, Consent, and Privacy Choices
+For regions where consent is required (including EEA/UK/Switzerland), Shopio uses Google's consent flow before requesting ads.
 
-## 5) How We Use Information
-We use data only to:
-- Provide and operate the App
-- Sync and back up shopping lists
-- Improve app performance and features
-- Show ads and measure ad performance
-- Process subscriptions (ad removal)
+- If required, a consent form is shown in-app.
+- Ad request behavior follows consent status.
+- You can reopen ad privacy options in the App under **Settings -> Ad privacy choices**.
 
-## 6) Legal Basis (GDPR/EEA/UK)
-If you are in the EEA/UK, we process data under the following bases:
-- **Consent:** for personalized ads and analytics (where required).
-- **Contract:** to provide subscription features and sync services.
-- **Legitimate interests:** to maintain and improve the App (non-personalized analytics/diagnostics).
+## 6) Legal Bases (EEA/UK)
+Where applicable, legal bases may include:
+- **Contract:** to provide the app features you request (lists, sync, sharing, subscriptions).
+- **Consent:** where required for certain advertising/measurement processing.
+- **Legitimate interests:** securing, maintaining, and improving service operations.
 
-You can withdraw consent at any time via your device settings or ad preferences.
+You can withdraw or update consent choices at any time through in-app privacy options where available.
 
-## 7) Your Rights (GDPR/EEA/UK)
-You may have the right to:
-- Access your data
-- Correct or delete your data
-- Restrict or object to processing
-- Data portability
-- Withdraw consent at any time
-- Lodge a complaint with your local data protection authority
+## 7) Data Retention
+We retain data only as long as needed for service operation, legitimate business needs, and legal compliance.
 
-Because we do not maintain user accounts, we may not be able to locate data without device identifiers (such as your advertising ID). You can reset your advertising ID in your device settings, which also resets ad-related data.
+Because shared-list functionality depends on backend storage, list content may remain stored until removed or overwritten through app usage and backend lifecycle controls.
 
 ## 8) International Transfers
-Third-party services may process data outside your country (including the U.S.). Appropriate safeguards may be used where required.
+Service providers may process data outside your country of residence, including in the United States, subject to applicable safeguards where required.
 
-## 9) Data Retention
-We retain data only as long as needed to operate the App and comply with legal obligations.
+## 9) Your Rights
+Depending on your location, you may have rights to access, correct, delete, restrict, object, or request portability of certain data, and to lodge a complaint with a supervisory authority.
+
+Because Shopio does not use account registration, requests may require enough technical detail for us to locate records (for example, share code details, approximate timestamps, or other service identifiers).
 
 ## 10) Security
-We use reasonable security measures to protect data stored in the App and our backend. **No system is 100% secure**, and we cannot guarantee absolute security.
+We use reasonable technical and organizational safeguards. No system is perfectly secure, and we cannot guarantee absolute security.
 
-## 11) Children’s Privacy
-The App is not directed to children under 13 and we do not knowingly collect personal information from children.
+## 11) Children's Privacy
+The App is not directed to children under 13, and we do not knowingly collect personal information from children.
 
-## 12) Contact
-Aurora Soft AI
+## 12) Changes to This Policy
+We may update this Privacy Policy. We will post updates here with a revised effective date and version.
+
+## 13) Contact
+Aurora Soft AI  
 Email: aurorasoftai@gmail.com
-
-## 13) Updates
-We may update this policy. Changes will be posted with a new effective date and version.

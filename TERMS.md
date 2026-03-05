@@ -1,28 +1,49 @@
 # Shopio Terms of Service
 
-**Effective date:** [Month Day, Year]
-**Version:** 1.0.0
+**Effective date:** March 5, 2026  
+**Version:** 1.1.0
 
-By using Shopio ("App"), you agree to these terms.
+These Terms of Service ("Terms") govern your use of the Shopio mobile application ("App") provided by Aurora Soft AI ("we," "our," or "us"). By using the App, you agree to these Terms.
 
-## 1) Acceptable Use
-You must not store sensitive, confidential, or personally identifying information in your lists. The App is for generic shopping items only.
+## 1) Eligibility and Acceptance
+You may use the App only in compliance with applicable laws and these Terms.
 
-## 2) Content Responsibility
-You are responsible for all content you add to the App. You agree not to upload or store data that violates laws or the rights of others.
+## 2) Acceptable Use
+You agree not to:
+- Upload unlawful, harmful, infringing, or abusive content.
+- Store highly sensitive personal data in shopping lists.
+- Attempt unauthorized access, disruption, or misuse of the App or connected services.
 
-## 3) Service Availability
-We strive to keep the App available, but we do not guarantee uninterrupted service.
+Shopio is intended for normal shopping-list use.
 
-## 4) Disclaimer
-The App is provided "as is." We make no warranties about availability, accuracy, or fitness for a particular purpose.
+## 3) User Content and Sharing
+You are responsible for content you add, including content shared through share codes. If you share a code, anyone with that code may be able to access the shared list.
 
-## 5) Limitation of Liability
-To the maximum extent permitted by law, Aurora Soft AI is not liable for any indirect, incidental, or consequential damages arising from your use of the App, including loss or exposure of data.
+## 4) Ads, Consent, and Subscriptions
+- The App may show ads, including in connection with specific features.
+- In regions where required, consent controls are presented for ad-related processing.
+- The App may offer paid subscription features (for example, ad-related benefits), processed by app store billing and subscription partners.
 
-## 6) Changes
-We may update these terms. Continued use means acceptance of updated terms.
+Pricing, billing, refunds, and renewals are generally governed by the app store terms and your store account settings.
 
-## 7) Contact
-Aurora Soft AI
+## 5) AI Features
+If you use AI categorization, list item text is sent for processing to our backend and AI provider(s). Do not submit sensitive personal data.
+
+## 6) Availability
+We aim to keep the App available, but we do not guarantee uninterrupted or error-free operation.
+
+## 7) Disclaimer
+The App is provided "as is" and "as available" without warranties of any kind, to the maximum extent permitted by law.
+
+## 8) Limitation of Liability
+To the maximum extent permitted by law, Aurora Soft AI is not liable for indirect, incidental, special, consequential, exemplary, or punitive damages, or for loss of data, profits, or goodwill arising from use of the App.
+
+## 9) Termination
+We may suspend or terminate access if needed to protect the service, comply with legal obligations, or address violations of these Terms.
+
+## 10) Changes to These Terms
+We may update these Terms. Continued use after updates become effective means you accept the revised Terms.
+
+## 11) Contact
+Aurora Soft AI  
 Email: aurorasoftai@gmail.com
