@@ -29,6 +29,8 @@ Pricing, billing, refunds, and renewals are generally governed by the app store 
 ## 5) AI Features
 If you use AI categorization, list item text is sent for processing to our backend and AI provider(s). Do not submit sensitive personal data.
 
+AI categorization is subject to fair-use protections and service limits. Requests may be rate-limited per user/device/account (for example, per-minute and per-day caps), and limits may change over time to protect reliability, security, and cost control. If limits are reached, AI categorization may be temporarily unavailable until the applicable time window resets.
+
 ## 6) Availability
 We aim to keep the App available, but we do not guarantee uninterrupted or error-free operation.
 

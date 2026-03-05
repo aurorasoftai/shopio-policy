@@ -20,6 +20,7 @@ We may process the following categories of data:
 - **Advertising and diagnostics data (via partners):** device identifiers (including advertising IDs where available), app interaction, and ad performance data.
 - **Subscription and purchase data (via partners):** entitlement status, store transaction metadata, and restore/purchase state.
 - **AI request data:** item text and selected category labels sent to our categorization endpoint and then to OpenAI.
+- **AI usage controls:** metadata required to enforce fair-use protections such as per-user request rate limits.
 
 ## 3) How We Use Data
 We process data to:
@@ -27,6 +28,7 @@ We process data to:
 - Sync and back up shopping lists.
 - Enable shared lists.
 - Categorize list items with AI.
+- Enforce fair-use limits for AI features to protect service reliability and prevent abuse.
 - Show ads and measure ad performance.
 - Process and restore subscriptions.
 - Maintain service security, reliability, and troubleshooting.
